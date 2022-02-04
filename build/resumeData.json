@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name": "Kasper De Blieck",
+    "occupation": "Mathematician & developer",
+    "description": "I like coding and problem solving. Always eager to learn and improve.",
+    "image": "profilepic.jpg",
+    "bio": "I would describe myself as an analytical, technical minded developer who likes challenges. I have a deep interest in blockchain technology and applications. I'm a team player with a winner mentality who always gets along with other people. Writing code in a qualitative, efficient way is one of my focus points. Python is my main programming language, but I am always eager to learn new technologies. Being adaptive to new situations and thinking analytically are not a problem. Besides coding, I like to do some sports: playing some football or going for a run. If mental exercise counts as sports, you can add chess to that list as well.",
+    "contactmessage": "You can contact me via e-mail or LinkedIn. If you want to have a more informal conversation, get in contact and I'll gladly share my phone number",
+    "email": "kasperdeblieck@hotmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Bornem",
+      "state": "(Belgium)",
+      "zip": ""
+    },
+    "website": "http://kasperdeblieck@github.io",
+    "resumedownload": "http://kasperdeblieck@github.io",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kasperdeblieck/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/kasperdeblieck",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "UGent",
+        "degree": "Master of Science in Mathematics",
+        "graduated": "2017",
+        "description": "I graduated in applied mathematics, with economics as a major. During my studies, I got into contact with multiple software languages such as Java, R, Matlab and Python. After taking multiple statistical courses, I also did my thesis about statistics (studying statistical techniques to determine the effect of a treatment for the group that is actually treated). The methods where scripted and tested in R and the paper written in Latex. At the end of my math studies, I also did a six-week internship in the algorithms team of BE-Mobile. Here I worked on an algorithm to detect blocked roads in a traffic modelling application. The programming language used was Go, QGIS visualized the traffic data and Git (Bitbucket) was the version control tool."
+      },
+      {
+        "school": "Howest",
+        "degree": "Postgraduate Applied Informatics: Blockchain Development and Architecture",
+        "graduated": "2020",
+        "description": "During my first job, I started studying again and got a postgraduate diploma in applied computer science: blockchain development and architecture. I got intrigued by the topic after wondering which back-end made things like Bitcoin possible and what else might be possible with this technology. I learned developing and integrating blockchain platforms as Ethereum and Hyperledger Fabric, but also gained general experience in cryptography and programming languages as Go, Javascript (Node, React) and even Arduino."
+      }
+    ],
+    "work": [
+      {
+        "company": "Deloitte Belgium",
+        "title": "Senior technology consultant",
+        "years": "January 2018 - Present",
+        "description": "After finishing my studies, I joined the analytics and information management team of Deloitte. In the beginning, I mainly worked on data models using IBM Planning Analytics and SQL Server. This included working closely together with clients to translate business requirements into a technical solution, collaborating with teams of other technology departments (SAP, SharePoint, etc.) to integrate platforms and taking care of the on boarding of new team members. After about a year, I moved to projects requiring more custom programming. The first project was developing a Python framework to deploy and maintain network infrastructure on AWS. The second project was setting up applications on the servers on the platform in an automated way using Puppet code and bash scripts. The servers were mostly linux. I'm used to working with git (Gitlab for this project) as a versioning tool. Afterwards, I was developing statistical credit risk models in the financial sector. Here, we combined code development with statistics and algorithms to create credit risk models, using SQL (Oracle) for data preparation and a custom wrapper of the Kedro framework (Python) for model development. Coding was done on a linux environment with git (Bitbucket) as the versioning tool and Jenkins for CI/CD. Besides his daily work, I've been an active core member of the Deloitte Belgium blockchain community since joining the firm. The goal of this community is to raise blockchain awareness within the firm, increase the inhouse blockchain expertise and look for opportunities within the blockchain space. This includes leading sessions on blockchain, ranging from blockchain 101 to the presentation of PoC's. For the Deloitte tax business unit, I was the blockchain lead for a PoC of a track-and-trace DAPP for tobacco excise stamps. This included solution architecture, smart contract development and front-end integration. My focus is the technical implementation of models and applications. Next to the technical knowledge gained at Deloitte, I learned how to work towards goals, the importance of clear communication towards colleagues and clients and working on a project as a team. During the Covid pandemic, working remotely became the standard."
+      },
+      {
+        "company": "NFT platform start-up",
+        "title": "Blockchain lead",
+        "years": "August 2021 - Present",
+        "description": "In my spare time, I have been contributing to a promising NFT project. Most of the developments were done on EVM platforms. Smart contracts were written in Solidity and the Truffle suite was used for testing and deployment. Web3.js was used to provide a node command line interface to operate the smart contract functions as an administrator, and also for front-end integration in react. I was responsible for the technical advice on business requirements and smart contract implementation. Other tasks are doing research on technical topics (e.g. gas war mitigation, staking, reflection principle,...), contract testing (locally and on test nets), creating a PoC for the front-end integration, contract deployment on test and main nets and perating deployed contracts as owner."
+      },
+      {"company": "Groningen blockchain hackathon",
+        "title": "Competing developer",
+        "years": "2019",
+        "description": "I've participated in the Groningen blockchain hackathon 2019, said to be the largest blockchain hackathon in the world. The events lasted four days, of which 48 hours developing the solution. Our team won the second place in our track with a digital permission solution for the Dutch chamber of commerce, built on Ethereum. Kasper was again responsible for the technical aspect and the development of the smart contracts in Solidity."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "Git (Github, Bitbucket, Gitlab)",
+        "level": "70%"
+      },
+      {
+        "name": "Javascript (Node, Reac.js)",
+        "level": "65%"
+      },
+      {
+        "name": "AWS cloud infrastructure",
+        "level": "70%"
+      },
+      {
+        "name": "Ethereum development (Solidity, Truffle suite, web3js)",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Staking contract",
+        "category": "Staking contract to periodically distribute funds amongst stakeholders.",
+        "image": "env.png",
+        "url": "https://github.com/envoynetwork/staking-contract-v2"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+    ]
+  }
+}
