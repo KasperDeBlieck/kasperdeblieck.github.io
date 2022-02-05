@@ -4,7 +4,8 @@
     "occupation": "Mathematician & developer",
     "description": "I like coding and problem solving. Always eager to learn and improve.",
     "image": "profilepic.jpg",
-    "bio": "I would describe myself as an analytical, technical minded developer who likes challenges. I have a deep interest in blockchain technology and applications. I'm a team player with a winner mentality who always gets along with other people. Writing code in a qualitative, efficient way is one of my focus points. Python is my main programming language, but I am always eager to learn new technologies. Being adaptive to new situations and thinking analytically are not a problem. Besides coding, I like to do some sports: playing some football or going for a run. If mental exercise counts as sports, you can add chess to that list as well.",
+    "bio": "I would describe myself as an analytical, technical minded developer who likes challenges. I have a deep interest in blockchain technology and applications. I'm a team player with a winner mentality who always gets along with other people. Writing code in a qualitative, efficient way is one of my focus points. Python is my main programming language, but I am always eager to learn new technologies. Being adaptive to new situations and thinking analytically are not a problem. Besides coding, I like to do some sports: playing some football or going for a run. If mental exercise counts as sports, you can add chess to that list as well (as the background probably gave away :) ).",
+    "whyHiring": "The profile of a developer with a background in blockchain, mathematics and economics is not the most common, so if you're looking for this profile you are probably looking in the right place. Having worked at Deloitte, I have been in client-facing functions as well. I focus on delivering high quality code and am constantly trying to improve myself. I am a team player. I am willing to go the extra mile. I am good at working towards goals. The downside of my profile? You can't be or know everything: I'm not a pure theoretical mathematician, the most experienced full-stack developer, smooth sales man or economist, I'm a mix of these profiles. As a consequence, you probably won't be able to tick off all the boxes you are looking for. This scares of a lot of people. Which I understand. I can only tell you that I am a fast learner and that you will not regret having me on your team on the long run.",
     "contactmessage": "You can contact me via e-mail or LinkedIn. If you want to have a more informal conversation, get in contact and I'll gladly share my phone number",
     "email": "kasperdeblieck@hotmail.com",
     "phone": "",
@@ -15,7 +16,7 @@
       "zip": ""
     },
     "website": "https://kasperdeblieck.github.io",
-    "resumedownload": "https://kasperdeblieck.github.io/docs/Kasper_De_Blieck_Curriculum_Vitae.pdf",
+    "resumedownload": "https://kasperdeblieck.github.io/Kasper_De_Blieck_Curriculum_Vitae.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -30,7 +31,6 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
         "school": "UGent",
@@ -66,28 +66,58 @@
     ],
     "skills": [
       {
-        "name": "Python",
-        "level": "90%"
+        "title": "Languages",
+        "message": "My main programming language is Python, but I've worked in other language as well. Besides the main language being Python, I am used to code in an object oriented way. I'm always trying to improve my coding quality standard and am eager to keep developing my skills. So don't hesitate if you are looking for a developer in a language not listed below, I see it as an opportunity rather than a problem!",
+        "skills": [{
+            "name": "Python",
+            "level": "90%"
+          },
+          {
+            "name": "SQL",
+            "level": "80%"
+          },
+          {
+            "name": "Ethereum development (Solidity, Truffle suite, web3js)",
+            "level": "85%"
+          },
+          {
+            "name": "Javascript (Node, React.js)",
+            "level": "65%"
+          },
+          {
+            "name": "R",
+            "level": "60%"
+          },
+          {
+            "name": "Java",
+            "level": "50%"
+          },
+          {
+            "name": "Go",
+            "level": "50%"
+          }
+        ]
       },
       {
-        "name": "SQL",
-        "level": "80%"
-      },
-      {
-        "name": "Git (Github, Bitbucket, Gitlab)",
-        "level": "70%"
-      },
-      {
-        "name": "Javascript (Node, Reac.js)",
-        "level": "65%"
-      },
-      {
-        "name": "AWS cloud infrastructure",
-        "level": "70%"
-      },
-      {
-        "name": "Ethereum development (Solidity, Truffle suite, web3js)",
-        "level": "85%"
+        "title": "Tools",
+        "message": "I am used to working in DevOps environments, on Linux platforms and with cloud solutions. Besides the quality of the code itself, the infrastructure around it equally important.",
+        "skills" : [{
+            "name": "Git (Github, Bitbucket, Gitlab)",
+            "level": "80%"
+          },
+          {
+            "name": "AWS cloud infrastructure",
+            "level": "70%"
+          },
+          {
+            "name": "Linux platforms",
+            "level": "70%"
+          },
+          {
+            "name": "Latex",
+            "level": "80%"
+          }
+        ]
       }
     ]
   },
