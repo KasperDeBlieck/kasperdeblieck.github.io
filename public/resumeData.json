@@ -14,8 +14,8 @@
       "state": "(Belgium)",
       "zip": ""
     },
-    "website": "http://kasperdeblieck@github.io",
-    "resumedownload": "http://kasperdeblieck@github.io",
+    "website": "https://kasperdeblieck.github.io",
+    "resumedownload": "https://kasperdeblieck.github.io/docs/Kasper_De_Blieck_Curriculum_Vitae.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -98,6 +98,12 @@
         "category": "Staking contract to periodically distribute funds amongst stakeholders.",
         "image": "env.png",
         "url": "https://github.com/envoynetwork/staking-contract-v2"
+      },
+      {
+        "title": "UGent thesis",
+        "category": "Paper on the average treatment effect in the treated",
+        "image": "ruglogo.png",
+        "url": "https://lib.ugent.be/en/catalog/rug01:002349873"
       }
     ]
   },
