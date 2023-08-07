@@ -49,14 +49,20 @@
       {
         "company": "Deloitte Belgium",
         "title": "Senior technology consultant",
-        "years": "January 2018 - Present",
-        "description": "After finishing my studies, I joined the analytics and information management team of Deloitte. In the beginning, I mainly worked on data models using IBM Planning Analytics and SQL Server. This included working closely together with clients to translate business requirements into a technical solution, collaborating with teams of other technology departments (SAP, SharePoint, etc.) to integrate platforms and taking care of the on boarding of new team members. After about a year, I moved to projects requiring more custom programming. The first project was developing a Python framework to deploy and maintain network infrastructure on AWS. The second project was setting up applications on the servers on the platform in an automated way using Puppet code and bash scripts. The servers were mostly linux. I'm used to working with git (Gitlab for this project) as a versioning tool. Afterwards, I was developing statistical credit risk models in the financial sector. Here, we combined code development with statistics and algorithms to create credit risk models, using SQL (Oracle) for data preparation and a custom wrapper of the Kedro framework (Python) for model development. Coding was done on a linux environment with git (Bitbucket) as the versioning tool and Jenkins for CI/CD. Besides his daily work, I've been an active core member of the Deloitte Belgium blockchain community since joining the firm. The goal of this community is to raise blockchain awareness within the firm, increase the inhouse blockchain expertise and look for opportunities within the blockchain space. This includes leading sessions on blockchain, ranging from blockchain 101 to the presentation of PoC's. For the Deloitte tax business unit, I was the blockchain lead for a PoC of a track-and-trace DAPP for tobacco excise stamps. This included solution architecture, smart contract development and front-end integration. My focus is the technical implementation of models and applications. Next to the technical knowledge gained at Deloitte, I learned how to work towards goals, the importance of clear communication towards colleagues and clients and working on a project as a team. During the Covid pandemic, working remotely became the standard."
+        "years": "September 2017 - May 2022",
+        "description": "After his studies, Kasper joined Deloitte in the analytics and information management as a business analyst in September 2017 (with a brief pause in the end of 2017 to complete his Master diploma). In his first year at Deloitte, he mainly created data models using IBM Planning Analytics and SQL Server in corporate environments. This included working closely together with clients to translate business requirements into a technical solution, collaborating with teams of other technology departments (SAP, SharePoint, etc.) to integrate platforms and taking care of the onboarding of new team members. After the first year, he shifted to an inhouse software engineering project. The project consistent of deploying a managed service platform able to run custom Deloitte applications for external clients. The first part was developing a custom Python framework to easily deploy and maintain network infrastructure on AWS. The second part of this project was setting up applications on the servers on the platform in an automated way, using Puppet code and bash scripts. The servers were mostly Linux. Kasper is used to working with git (Gitlab for this project) as a versioning tool. Afterwards, Kasper worked on statistical models in the financial sector. Here he combined code development with statistics and algorithms to create credit risk models, using SQL (Oracle) for data preparation and a custom wrapper of the Kedro framework (Python) for model development. Both scikit-learn and statsmodels models were use. Coding was done on a Linux environment with git (Bitbucket) as the versioning tool and Jenkins for CI/CD. Next to the technical knowledge gained at Deloitte, he learned how to work towards goals, the importance of clear communication towards colleagues and clients and working on a project as a team. During the Covid pandemic, working remotely became the standard."
       },
       {
         "company": "NFT platform start-up",
         "title": "Blockchain lead",
-        "years": "August 2021 - Present",
+        "years": "August 2021 - August 2022",
         "description": "In my spare time, I have been contributing to a promising NFT project. Most of the developments were done on EVM platforms. Smart contracts were written in Solidity and the Truffle suite was used for testing and deployment. Web3.js was used to provide a node command line interface to operate the smart contract functions as an administrator, and also for front-end integration in react. I was responsible for the technical advice on business requirements and smart contract implementation. Other tasks are doing research on technical topics (e.g. gas war mitigation, staking, reflection principle,...), contract testing (locally and on test nets), creating a PoC for the front-end integration, contract deployment on test and main nets and perating deployed contracts as owner."
+      },
+      {
+        "company": "Sony blockchain R&D",
+        "title": "Software developer",
+        "years": "May 2022 - present",
+        "description": "In May 2022, Kasper joined the blockchain team of Sony’s R&D department as a software developer. He was working on proof of concepts for blockchain-based solutions, mainly regarding secure data sharing and crypto wallets in a corporate environment. Most of the applications were using RESTful API’s in Flask (Python). Testing was done using the Pytest framework. Databases were either AWS DynamoDB or relational databases. AWS Lambda and AWS API Gateways were used as infrastructure, using the Serverless framework for deployment of the different microservices. Github was used for version control, Github actions for CI/CD. The teams worked in agile sprints, managed in Jira. Client-side libraries were written in Javascript as input for the front-end work (which was mostly outsourced). Besides the tasks mentioned before, Kasper worked on onboarding new team members, testing the front end, assess threat modelling, creating demos of the solutions, perform code reviews on pull request written by colleagues, writing high-quality documentation and perform threat modelling."
       },
       {"company": "Groningen blockchain hackathon",
         "title": "Competing developer",
@@ -73,7 +79,7 @@
             "level": "90%"
           },
           {
-            "name": "SQL",
+            "name": "SQL and databases",
             "level": "80%"
           },
           {
@@ -81,8 +87,8 @@
             "level": "85%"
           },
           {
-            "name": "Javascript (Node, React.js)",
-            "level": "65%"
+            "name": "Javascript (Node, ReactJS)",
+            "level": "70%"
           },
           {
             "name": "R",
@@ -90,7 +96,7 @@
           },
           {
             "name": "Java",
-            "level": "50%"
+            "level": "60%"
           },
           {
             "name": "Go",
